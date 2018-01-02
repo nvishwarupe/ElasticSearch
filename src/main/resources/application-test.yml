@@ -1,0 +1,5 @@
+app:
+  restclient:
+    hostname: 13.57.14.121 #you must provide your instance address
+  index:
+    name: test
